@@ -16,8 +16,8 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-    <permission android:name="ir.telgeramplus.messenger.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
-    <permission android:name="ir.telgeramplus.messenger.permission.C2D_MESSAGE" android:protectionLevel="signature" />
+    <permission android:name="jetgram.aftabhashtom.ir.permission.MAPS_RECEIVE" android:protectionLevel="signature"/>
+    <permission android:name="jetgram.aftabhashtom.ir.permission.C2D_MESSAGE" android:protectionLevel="signature" />
 
     <application
         android:allowBackup="false"
