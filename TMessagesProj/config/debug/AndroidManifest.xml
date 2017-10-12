@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="org.telegram.messenger"
+    package="jetgram.aftabhashtom.ir"
     android:installLocation="auto">
 
     <uses-feature android:name="android.hardware.location.gps" android:required="false" />
@@ -10,8 +10,8 @@
     <uses-feature android:name="android.hardware.LOCATION" android:required="false" />
 
     <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
-    <uses-permission android:name="ir.telgeramplus.messenger.permission.MAPS_RECEIVE"/>
-    <uses-permission android:name="ir.telgeramplus.messenger.permission.C2D_MESSAGE" />
+    <uses-permission android:name="jetgram.aftabhashtom.ir.messenger.permission.MAPS_RECEIVE"/>
+    <uses-permission android:name="jetgram.aftabhashtom.ir.permission.C2D_MESSAGE" />
     <uses-permission android:name="com.google.android.providers.gsf.permission.READ_GSERVICES"/>
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
